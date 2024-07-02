@@ -1,0 +1,305 @@
+{
+  "users": [
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "karan",
+      "usermail": "mr.parmarkaran141@gmail.com",
+      "userpass": "123456",
+      "id": 2
+    },
+    {
+      "username": "karan",
+      "usermail": "milan141@gmail.com",
+      "userpass": "123456",
+      "id": 3
+    },
+    {
+      "username": "karan",
+      "usermail": "mukesh1285.mp@gmail.com",
+      "userpass": "123456",
+      "id": 4
+    },
+    {
+      "username": "khushi",
+      "usermail": "milan41@gmail.com",
+      "userpass": "123456",
+      "id": 5
+    },
+    {
+      "username": "kaha",
+      "usermail": "mukesh185.mp@gmail.com",
+      "userpass": "123456",
+      "id": 6
+    },
+    {
+      "username": "karan",
+      "usermail": "mr.parmarkaran41@gmail.com",
+      "userpass": "123456",
+      "id": 7
+    },
+    {
+      "username": "karan",
+      "usermail": "mukesh1285++1.mp@gmail.com",
+      "userpass": "123456",
+      "id": 8
+    },
+    {
+      "username": "karan",
+      "usermail": "milan14@gmail.com",
+      "userpass": "123456",
+      "id": 9
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 10
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 11
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 12
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 13
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 14
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 15
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 16
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 17
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 18
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 19
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 20
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 21
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 22
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 23
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 24
+    },
+    {
+      "username": "2363_KARAN_PARMAR",
+      "usermail": "mr.parmarkaran411@gmail.com",
+      "id": 25
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "category": "mobile",
+      "brand": "Apple",
+      "img": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "category": "mobile",
+      "brand": "Apple",
+      "img": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "brand": "Samsung",
+      "category": "mobile",
+      "img": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 2800,
+      "brand": "OPPO",
+      "category": "mobile",
+      "img": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "brand": "Huawei",
+      "category": "mobile",
+      "img": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "brand": "Apple",
+      "category": "laptops",
+      "img": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+      "seller": "croma"
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "brand": "Samsung",
+      "category": "laptops",
+      "img": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "img": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 9,
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "brand": "Infinix",
+      "category": "laptops",
+      "img": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+      "seller": "croma"
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "brand": "HP Pavilion",
+      "category": "laptops",
+      "img": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+      "seller": "croma"
+    },
+    {
+      "id": 11,
+      "title": "ASUS Vivobook 15 Intel Core i3 11th Gen (15.6 inch, 8GB, 512GB, Windows 11 Home, MS Office 2021, Intel UHD, Full HD IPS Display, Grey, X515EA-EZ311WS)",
+      "description": "Streamlined Computing Tasks\n\nBoost your efficiency with the ASUS Vivobook 15 X515EA-EZ311WS Windows Laptop, which features a 3GHz Intel Core i3-1115G4 11th Gen processor that delivers rapid and responsive computing. Furthermore, with a rapid refresh rate of up to 60Hz, this laptop makes sure that fast-paced content and games are rendered with precision and minimal motion distortion.\n\n\nStriking Visual Experience\n\nFlaunting a 15.6-inch IPS screen, this laptop creates a visually engaging and productive environment to elevate your work and entertainment experience. What’s more, with a refresh rate of up to 60Hz, this laptop ensures a captivating viewing experience, free from the disruption of motion blur during action scenes.\n\n\nCortana Support\n\nIntegrating Cortana Support technology, this 15.6-inch laptop promises a dynamic and full-bodied sound experience. As a result, you can engross yourself in the ultimate gaming experience, feel the intensity of every precise move, and capture the subtleties of virtual environments.\n\n\nIntel UHD Graphics Card\n\nThe Intel UHD graphics card delivers high-quality graphics rendering, making it ideal for graphic design and content creation.\n\n\n512GB M.2 PCIe NVMe SSD\n\nWith a substantial 512GB M.2 PCIe NVMe SSD, this laptop is designed for prompt data retrieval, leading to reduced loading times and quick boot times.\n\n\nClear Webcam\n\nFacilitate high-definition video communication with its webcam, which delivers sharp and detailed visuals. Additionally, its built-in ensures that your voice is captured with clarity.\n\n\nWindows 11 Home Operating System\n\nRunning on the Windows 11 Home operating system, this laptop offers a hassle-free and efficient user experience, making it suitable for various computing needs.\n\n\nDependable Battery Performance\n\nRunning on a substantial 37Wh lithium-ion battery, this laptop has an extended battery life of up to 4 hours, enabling you to stay connected and productive throughout the day without the worry of running out of power.\n\n\nFlexible Connectivity Options\n\nBuilt with a USB 3.2 port a USB 3.2 Type-C, two USB 2.0 ports, an HDMI 1.4 port, a 3.5mm AUX, and one MicroSD Card Reader, this ASUS laptop provides hassle-free connectivity, allowing you to connect peripherals and accessories effortlessly. Additionally, stay connected with ease as this laptop's IEEE 802.11a/b/g/n/ac ensures seamless internet access.\n\n\nTouch to Login\n\nUnlocking this laptop is super easy and safe as its touchpad has a fingerprint sensor, and with Windows Hello, you don't have to Type your password but just touch it once.\n\n\nLightweight Design\n\nWith an overall weight of just 1.8 kg, this laptop is lightweight and helps keeps up with your fast-paced lifestyle.",
+      "price": "31999",
+      "category": "laptop",
+      "brand": "Asus",
+      "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683556744/Croma%20Assets/Computers%20Peripherals/Laptop/Images/266653_0_owzana.png",
+      "seller": "croma"
+    },
+    {
+      "id": 12,
+      "title": "Samsung Galaxy S24 Ultra 5G (Titanium Black, 12GB, 512GB Storage)",
+      "img": "https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71CXhVhpM0L._SX679_.jpg",
+      "price": "124000",
+      "category": "mobile",
+      "brand": "samsung",
+      "descripation": "Meet Galaxy S24 Ultra, the ultimate form of Galaxy Ultra with a new titanium exterior and a 17.25cm (6.8\") flat display. It's an absolute marvel of design.",
+      "seller": "sumsung distributor "
+    },
+    {
+      "id": 13,
+      "title": "Samsung Galaxy S24 5G (Onyx Black, 8GB, 256GB Storage)",
+      "img": "https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/719PYirSevL._SX679_.jpg",
+      "price": "64968",
+      "category": "mobile",
+      "brand": "Samsung ",
+      "descripation": "Easy to grip. Satisfying to hold. With their unified design and satin finish, Galaxy S24 feels as smooth as it looks.\nThey're the upgrades you've waited for. More screen. More battery. More processing power. There's so much more to love about Galaxy S24.",
+      "seller": "sumsung distributor "
+    },
+    {
+      "id": 14,
+      "title": "Electric Blender",
+      "description": "Powerful blender for smoothies and soups.",
+      "price": 59.99,
+      "category": "Kitchen Appliances",
+      "brand": "KitchenMaster",
+      "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697625722/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/266523_pi3zfb.png?tr=w-640",
+      "seller": "Home Appliances Co."
+    },
+    {
+      "id": 15,
+      "title": "Smart LED TV",
+      "description": "High-definition smart TV with built-in streaming apps.",
+      "price": 499.99,
+      "category": "Electronics",
+      "brand": "TechVision",
+      "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702663528/Croma%20Assets/Entertainment/Television/Images/300449_0_ktnx0y.png?tr=w-400",
+      "seller": "Electronics Hub"
+    }
+  ],
+  "cart": [
+    {
+      "img": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "title": "iPhone X",
+      "price": 899,
+      "date": "11/2/2024",
+      "id": 1
+    },
+    {
+      "img": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+      "title": "Samsung Universe 9",
+      "price": 1249,
+      "date": "11/2/2024",
+      "id": 2
+    }
+  ]
+}
