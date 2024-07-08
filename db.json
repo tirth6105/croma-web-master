@@ -1,13 +1,14 @@
 {
   "users": [
     {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
+      "username": "tirth",
+      "usermail": "mr.tirth@gmail.com",
       "id": 1
     },
     {
-      "username": "karan",
-      "usermail": "mr.parmarkaran141@gmail.com",
+      
+      "username": "khushi",
+      "usermail": "khushi@gmail.com",
       "userpass": "123456",
       "id": 2
     },
@@ -16,123 +17,8 @@
       "usermail": "milan141@gmail.com",
       "userpass": "123456",
       "id": 3
-    },
-    {
-      "username": "karan",
-      "usermail": "mukesh1285.mp@gmail.com",
-      "userpass": "123456",
-      "id": 4
-    },
-    {
-      "username": "khushi",
-      "usermail": "milan41@gmail.com",
-      "userpass": "123456",
-      "id": 5
-    },
-    {
-      "username": "kaha",
-      "usermail": "mukesh185.mp@gmail.com",
-      "userpass": "123456",
-      "id": 6
-    },
-    {
-      "username": "karan",
-      "usermail": "mr.parmarkaran41@gmail.com",
-      "userpass": "123456",
-      "id": 7
-    },
-    {
-      "username": "karan",
-      "usermail": "mukesh1285++1.mp@gmail.com",
-      "userpass": "123456",
-      "id": 8
-    },
-    {
-      "username": "karan",
-      "usermail": "milan14@gmail.com",
-      "userpass": "123456",
-      "id": 9
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 10
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 11
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 12
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 13
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 14
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 15
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 16
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 17
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 18
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 19
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 20
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 21
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 22
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 23
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 24
-    },
-    {
-      "username": "2363_KARAN_PARMAR",
-      "usermail": "mr.parmarkaran411@gmail.com",
-      "id": 25
     }
+    
   ],
   "product": [
     {

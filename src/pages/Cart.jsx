@@ -47,6 +47,7 @@ function Cart() {
           <Col sm={12} md={8} >
             {
               cart.cart.map((ele) => {
+                {console.log("ele", ele)}
                 return (
                   <>
                     <div className="bg-white shadow my-4 p-4 rounded">
